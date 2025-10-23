@@ -67,7 +67,7 @@ import Footer from "./components/Footer.jsx";
 
 import AdminLayout from "./pages/Admin/AdminLayout.jsx";
 import AdminDashboard from "./pages/admin/AdminDashboard.jsx";
-import AdminProducts from "./pages/admin/AdminProducts.jsx";
+import AdminProducts from "./pages/Admin/AdminProducts.jsx";
 import AdminUsers from "./pages/Admin/AdminUsers.jsx";
 import ProtectedAdminRoute from "./components/ProtectedAdminRoute.jsx";
 import EditProduct from "./pages/Admin/EditProduct.jsx";
