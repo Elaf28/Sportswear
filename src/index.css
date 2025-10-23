@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background: #f5faff;
+}
+:root{
+  --primary-color: #053F5E;
+  --secondary-color: #BFFF00;
+  --tertiary-color: #115173;
+}
+.logo{
+  font-family:"Lobster", sans-serif;
+  color: #053F5E;
+  text-shadow: 2px 2px 3px #BFFF00;
+}
+.auth-logo{
+  font-size: 5rem;
+}
+@media (min-width: 900px) {
+  .welcome-text {
+    display: block !important;
+  }
+}
